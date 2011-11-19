@@ -16,8 +16,10 @@ Your formatting string can contain any of these cool selectors:
 
 ####Months
 >     F m M n
+
 ####Days
 >     d
+
 ####Year
 >     Y y
 
